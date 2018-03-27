@@ -1,0 +1,38 @@
+h3{
+  
+  color:LightSteelBlue;
+  
+} 
+
+h4{
+  font-weight: bold;
+  color:black;
+  
+}
+body {
+        
+  
+  background-color: LightSteelBlue;
+}
+.btn-md{
+  background-color: white;
+}
+a{
+  color:black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+/*
+background:url('https://sciencearchives.files.wordpress.com/2013/05/learningletter.jpg?w=513&h=421');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+*/

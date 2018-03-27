@@ -1,0 +1,24 @@
+body{
+  background-color:green;
+}
+h2{
+  color:green;
+}
+.block{
+  width:100%;
+  background-color:purple;
+  opacity:0.95;
+  border-radius:40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  margin-right:auto;
+  margin-left:auto;
+  color:pink;
+}
+a{
+  color:white;
+}
+
+
